@@ -56,7 +56,9 @@ while True:
 
 
 ## OUPUT:
-![378203184-6c64818e-96ed-41a9-a59c-5fcd297cf39d](https://github.com/user-attachments/assets/4042666a-4e4f-46e1-ab8d-d445d836044e)
+![379635447-01b64525-e522-4568-bc71-63ad424330bb](https://github.com/user-attachments/assets/9f6bfa7d-85f9-4526-a360-b1e56c585f8d)
+![379635682-5d85909a-6e50-40bd-b0b4-5aa1d77c6dc7](https://github.com/user-attachments/assets/37fdc2f4-ba30-4d12-afc3-a6c1d2f584c5)
+
 
 
 ## RESULT
